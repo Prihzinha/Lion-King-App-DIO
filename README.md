@@ -1,5 +1,5 @@
 # Lion-King-App-DIO
-![LionKingApp]{https://github.com/Prihzinha/Lion-King-App-DIO/blob/DesafioLionAppDio/imgbin_27faaf7f4f158f5cf8b9a5410e8b7793.png}
+![LionKingApp](https://github.com/Prihzinha/Lion-King-App-DIO/blob/DesafioLionAppDio/imgbin_27faaf7f4f158f5cf8b9a5410e8b7793.png)
 
 #Descrição do Desafio
 
